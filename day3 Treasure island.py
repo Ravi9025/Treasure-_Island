@@ -45,5 +45,7 @@ if  choice1 == "left":
 else:
     choice1 == "right"
     print("you fall into the hole : Game Over")
+    
+    fuck
    
 
